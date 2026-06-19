@@ -1,7 +1,6 @@
 # my-portfolio
-A modern and responsive personal portfolio website to showcase my project ,technical skills and achievements.
-
-A modern and fully responsive portfolio website built using HTML, CSS, and JavaScript.
+A personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects and technical skills.
+The website features a responsive design, smooth user experience, and a modern interface across all devices.
 
 ## Features
 
